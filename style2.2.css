@@ -1,0 +1,25 @@
+div{
+    
+    background-color: palegoldenrod;
+    width:60px;
+    height:80px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+button{
+    background-color: aquamarine;
+    display:block;
+}
+#b1{
+    background-color:rgba(255,0,0.5);
+
+}
+#b2{
+    background-color: rgb(153, 209, 211);
+    
+    visibility: hidden;
+}
+#b3{
+    background-color: rgb(230, 104, 125);
+}

@@ -1,0 +1,40 @@
+#box1{
+    height:100px;
+    width:100px;
+    background-color: green;
+
+    
+}
+#box2{
+    height:100px;
+    width:100px;
+    background-color: rgb(173, 181, 15);
+    position: relative;
+    top: -30px;
+    left: 20;
+    
+}
+#box3{
+    height:100px;
+    width:100px;
+    background-color: rgb(69, 23, 217);
+    position:absolute;
+    top:100px
+
+}
+#box4{
+    height:100px;
+    width:100px;
+    background-color: rgb(217, 129, 225);
+    position: fixed;
+    right: 150px;
+    top:0px;
+}
+div{
+    margin: 20px;
+    display:inline-block;
+}
+body{
+    background-image: url("igor-omilaev-GJQ2orcAjWo-unsplash (2).jpg");
+    background-size: cover;
+}
